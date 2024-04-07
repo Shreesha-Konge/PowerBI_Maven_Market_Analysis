@@ -1,5 +1,5 @@
 # PowerBI_Maven_Market_Analysis
-Maven Market Project   
+Maven Market Project              
 Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States. You have to perform the task of connecting and shaping the source data, building a relational model, adding calculated columns and measures, and designing a report using different visuals.     
 MavenMarket_datasets :         
 1) MavenMarket_Calendar.csv
@@ -11,14 +11,14 @@ MavenMarket_datasets :
 7) MavenMarket_Transactions_1997.csv
 8) MavenMarket_Transactions_1998.csv
 
-Data Integration:    
-Leveraged Power Query to integrate and refine data from diverse sources for dashboard use.
-Data Transformation and Preparation:   
-Employed M Code within Power Query for advanced data transformation and preparation.
-Data Analysis:     
-Utilized DAX (Data Analysis Expressions) for complex calculations and data analysis within Power BI.
-Data Visualization:    
-Designed interactive data visualizations like KPI's, Map, Matrix , Stacked column chart, Gauge etc for insightful reporting and decision-making.
+Data Integration:      
+Leveraged Power Query to integrate and refine data from diverse sources for dashboard use.                         
+Data Transformation and Preparation:                  
+Employed M Code within Power Query for advanced data transformation and preparation.                    
+Data Analysis:                   
+Utilized DAX (Data Analysis Expressions) for complex calculations and data analysis within Power BI.                        
+Data Visualization:                   
+Designed interactive data visualizations like KPI's, Map, Matrix , Stacked column chart, Gauge etc for insightful reporting and decision-making.                      
 
 Project Key Factors :       
 1. KPI Tracking: Monitor crucial metrics like total transactions, profits, and returns, with goals and current status visually compared for immediate analysis.
@@ -32,7 +32,7 @@ Project Key Factors :
 
 3. Geographic Sales Data: Get a clear visual of market penetration with an interactive map detailing sales distribution across North America.    
 
-      *  Sales Distribution Map: Visualize sales distribution across North America, with the ability to drill down by country, providing a clear picture of regional market performance.
+       * Sales Distribution Map: Visualize sales distribution across North America, with the ability to drill down by country, providing a clear picture of regional market performance.
    
 4. Time Series Analysis: Understand weekly revenue trends to identify seasonal patterns or the impact of specific campaigns.   
 
